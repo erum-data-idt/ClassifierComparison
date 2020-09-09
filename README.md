@@ -6,3 +6,4 @@
    * Spinodal or not? [link](https://vfs.fias.science/d/fa35025bf2/?p=/Example-Datasets-classification/Spinodal-or-not), Publication: 1906:06562
    * EOSL or EOSQ [link](https://vfs.fias.science/d/fa35025bf2/?p=/Example-Datasets-classification/EOSL-or-EOSQ), Publication: 1910.11530
    * Cosmic Airshower [link](https://desycloud.desy.de/index.php/s/QZ5kJGdKcPryaaf)
+   * LHC Olympics 2020 (Unsupervised anomaly detection) [link](https://lhco2020.github.io/homepage/)
