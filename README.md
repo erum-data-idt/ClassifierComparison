@@ -7,3 +7,6 @@
    * EOSL or EOSQ [link](https://vfs.fias.science/d/fa35025bf2/?p=/Example-Datasets-classification/EOSL-or-EOSQ), Publication: 1910.11530
    * Cosmic Airshower [link](https://desycloud.desy.de/index.php/s/QZ5kJGdKcPryaaf)
    * LHC Olympics 2020 (Unsupervised anomaly detection) [link](https://lhco2020.github.io/homepage/)
+   * SmartBKG dataset (Belle II - generated events passing downstream selection) [link](https://github.com/kahn-jms/belle-selective-mc-dataset
+)
+
